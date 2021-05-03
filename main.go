@@ -16,6 +16,7 @@ var data = []student{
 	student{"E001", "Ber", 20},
 	student{"E002", "Ulum", 21},
 	student{"E003", "Wahyu", 20},
+        student{"E004", "Yoelee", 24},
 }
 
 func users(w http.ResponseWriter, r *http.Request) {
